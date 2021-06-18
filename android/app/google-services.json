@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "379159122983",
+    "project_id": "tubes-88172",
+    "storage_bucket": "tubes-88172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379159122983:android:5ff1264a99f5afd6b5ea02",
+        "android_client_info": {
+          "package_name": "com.example.tugasbesar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379159122983-0bai4v2tqn3d9tap187mr9ghbur4vk9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tugasbesar",
+            "certificate_hash": "d6668d74f1d31ae57e923707bc7e854637cf6d09"
+          }
+        },
+        {
+          "client_id": "379159122983-thn67u7jamj6qsb5fnmtjrvig3h49214.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBq2qygxdPsDpp_1zGBqY8tCybkT5kuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379159122983-thn67u7jamj6qsb5fnmtjrvig3h49214.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
